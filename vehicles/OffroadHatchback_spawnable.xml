@@ -1,0 +1,89 @@
+	<type name="OffroadHatchback">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackDoors_Driver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackDoors_CoDriver" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackHood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackTrunk" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MediumGasCanister" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="GhillieSuit_Mossy" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="GhillieSuit_Mossy" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="GhillieHood_Mossy" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="1.00" />
+		</cargo>
+	</type>

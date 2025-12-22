@@ -1,0 +1,71 @@
+	<type name="Offroad_02">
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GlowPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Door_1_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Door_1_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Door_2_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Door_2_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Offroad_02_Trunk" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MediumGasCanister" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="AK_Suppressor" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54" chance="1.00" />
+		</cargo>
+	</type>

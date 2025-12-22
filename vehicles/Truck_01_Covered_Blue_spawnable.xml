@@ -1,0 +1,140 @@
+	<type name="Truck_01_Covered_Blue">
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_WheelDouble" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_1_1_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Door_2_1_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Truck_01_Hood_Blue" chance="1.00" />
+		</attachments>
+		<cargo chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="MediumGasCanister" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Blowtorch" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="WatchtowerKit" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="FenceKit" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CombinationLock4" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CombinationLock4" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Pickaxe" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Pickaxe" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Hatchet" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Hatchet" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Pliers" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Flag_Bohemia" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Flag_White" chance="1.00" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="TerritoryFlagKit" chance="1.00" />
+		</cargo>
+	</type>
